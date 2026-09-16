@@ -1,0 +1,9 @@
+{
+  "n_c": 4,
+  "degree": 4096,
+  "logq": 84,
+  "ciphertext_bytes": 86016,
+  "ballot_proof_bytes": 215168,
+  "ballot_proof_bytes_no_laundering": 135296,
+  "abl_expected_rounds": 2.8
+}

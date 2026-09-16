@@ -1,0 +1,6 @@
+{
+  "degree": 4096,
+  "logq": 84,
+  "ciphertext_bytes": 86016,
+  "signature_bytes": 3309
+}

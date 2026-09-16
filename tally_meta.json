@@ -1,0 +1,8 @@
+{
+  "modexp_ms": 6.691110398969613,
+  "pet_ms": 28.038276126608253,
+  "gate_ms": 41.77191149938153,
+  "simurgh_slot_ms": 0.3831583652527115,
+  "ciphertext_bytes": 86016,
+  "trustees": 4
+}
